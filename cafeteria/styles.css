@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #8b5a2b;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+#menu {
+    background-color: #fff;
+    padding: 20px;
+}
+
+#menu h2 {
+    color: #8b5a2b;
+}
+
+#menu ul {
+    list-style-type: none;
+}
+
+#menu li {
+    margin-bottom: 10px;
+}
+
+#ambiance {
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+#ambiance h2 {
+    color: #8b5a2b;
+}
+
+.gallery {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.gallery img {
+    width: 45%;
+    border-radius: 5px;
+}
+
+#location {
+    background-color: #fff;
+    padding: 20px;
+}
+
+#location h2 {
+    color: #8b5a2b;
+}
+
+#contact {
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+#contact h2 {
+    color: #8b5a2b;
+}
